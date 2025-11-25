@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Home",
+    "search": "Find Workers",
+    "postJob": "Post a Job",
+    "dashboard": "Dashboard",
+    "chat": "Messages"
+  },
+  "home": {
+    "tagline": "Find Skilled Workers Near You",
+    "subtagline": "Connecting rural communities with local talent",
+    "findWorker": "Find a Worker",
+    "joinAsWorker": "Join as a Worker",
+    "howItWorks": "How It Works",
+    "step1": {
+      "title": "Search",
+      "description": "Browse skilled workers by category and location"
+    },
+    "step2": {
+      "title": "Connect",
+      "description": "View profiles, read reviews, and contact directly"
+    },
+    "step3": {
+      "title": "Work Together",
+      "description": "Hire and collaborate with trusted local professionals"
+    },
+    "popularSkills": "Popular Skills"
+  },
+  "search": {
+    "title": "Find Skilled Workers",
+    "searchPlaceholder": "Search by skill, name, or location...",
+    "filters": {
+      "skill": "Skill",
+      "location": "Location",
+      "rating": "Minimum Rating",
+      "apply": "Apply Filters"
+    },
+    "mode": {
+      "jobs": "Find Jobs",
+      "workers": "Find Workers"
+    },
+    "labels": {
+      "postedBy": "Posted by",
+      "schedule": "Schedule",
+      "budget": "Budget",
+      "postedOn": "Posted on",
+      "notSpecified": "Not specified"
+    },
+    "viewMode": {
+      "list": "List View",
+      "map": "Map View"
+    },
+    "noResults": "No workers found. Try adjusting your filters.",
+    "noJobs": "No jobs found. Try adjusting your filters.",
+    "loading": "Loading workers...",
+    "loadingJobs": "Loading jobs..."
+  },
+  "jobPosting": {
+    "title": "Post a Job",
+    "step1": "Select Skill",
+    "step2": "Location",
+    "step3": "Date & Details",
+    "step4": "Confirm",
+    "success": "Job posted successfully!",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Post Job"
+  },
+  "profile": {
+    "about": "About",
+    "reviews": "Reviews",
+    "availability": "Availability",
+    "contact": "Contact",
+    "rating": "Rating",
+    "experience": "Experience",
+    "location": "Location",
+    "available": "Available",
+    "notAvailable": "Not Available"
+  },
+  "chat": {
+    "title": "Messages",
+    "noChat": "Select a conversation to start messaging",
+    "typeMessage": "Type a message...",
+    "send": "Send",
+    "loadingMessages": "Loading messages..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "stats": {
+      "totalJobs": "Total Jobs",
+      "totalWorkers": "Total Workers",
+      "activeJobs": "Active Jobs",
+      "completedJobs": "Completed Jobs",
+      "totalUsers": "Total Users"
+    },
+    "charts": {
+      "skillGaps": "Skill Gaps by Region",
+      "workerDistribution": "Worker Distribution",
+      "activityMetrics": "Activity Metrics"
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved"
+  }
+}
+
+
+
+
+
